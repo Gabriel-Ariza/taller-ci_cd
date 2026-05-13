@@ -8,3 +8,6 @@
 
 ## segunda captura, package
 ![alt text](evidencias/package.png)
+
+# tercera captura, terminal
+![alt text](evidencias/terminal.png)
