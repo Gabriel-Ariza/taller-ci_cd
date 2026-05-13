@@ -14,3 +14,6 @@
 
 # cuarta captura, terminal
 ![alt text](evidencias/test.png)
+
+# quinta captura, pipeline
+![alt text](evidencias/pipeline.png)
