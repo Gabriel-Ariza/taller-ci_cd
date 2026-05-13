@@ -11,3 +11,6 @@
 
 # tercera captura, terminal
 ![alt text](evidencias/terminal.png)
+
+# cuarta captura, terminal
+![alt text](evidencias/test.png)
